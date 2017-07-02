@@ -7,6 +7,7 @@ public class User {
     private String password;
     private int age;
     private int status;
+    private String secondCommit;
 
 
     User(){

@@ -8,6 +8,7 @@ public class User {
     private int age;
     private int status;
     private String secondCommit;
+    private String thirdCommit;
 
 
     User(){
